@@ -1,2 +1,2 @@
 npm install express
-npm install nodemon morgan mongoose jsonwebtoken bcryptjs -D
+npm install nodemon morgan mongoose jsonwebtoken bcryptjs cookie-parser zod -D
