@@ -1,2 +1,9 @@
 npm install express
 npm install nodemon morgan mongoose jsonwebtoken bcryptjs cookie-parser zod -D
+
+frontend
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install react-router-dom
+npm install react-hook-form
+npm install axios
