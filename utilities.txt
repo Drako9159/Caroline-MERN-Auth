@@ -7,3 +7,4 @@ npx tailwindcss init -p
 npm install react-router-dom
 npm install react-hook-form
 npm install axios
+npm install js-cookie
