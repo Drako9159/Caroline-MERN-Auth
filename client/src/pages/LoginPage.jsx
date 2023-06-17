@@ -48,7 +48,12 @@ export default function LoginPage() {
           {errors.password && (
             <p className="text-red-500">password is required</p>
           )}
-          <button type="submit">Login</button>
+          <button
+            type="submit"
+            className="bg-sky-500 text-white px-4 py-2 rounded-md"
+          >
+            Login
+          </button>
         </form>
 
         <p className="flex gap-x-2 justify-center">
